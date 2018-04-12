@@ -6,5 +6,5 @@ public interface MenuADT {
 	
 	int[] inputNode();
 	
-	
+	String NavngiFil();
 }
